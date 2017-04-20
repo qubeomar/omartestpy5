@@ -2,10 +2,10 @@
 # pylint: skip-file
 from setuptools import setup, find_packages
 
-setup(name='qube_placeholder',
+setup(name='omartestpy5',
       version='0.1',
-      description='qube_placeholder',
-      url='http://github.com/Qubeship/qube_repo',
+      description='omartestpy5',
+      url='http://github.com/Qubeship/omartestpy5',
       author='Hyunji Kim',
       author_email='hyunji@qubeship.io',
       license='MIT',
